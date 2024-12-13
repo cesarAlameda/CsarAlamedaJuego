@@ -15,9 +15,10 @@ Esta es la primera pantalla que verás al abrir la aplicación.
 
 ### 🎮 Pantalla de Juego
 
-![Pantalla de Juego](https://github.com/user-attachments/assets/52293801-3bd8-469b-845f-b1eeeb783fde)
+![Pantalla de Juego](https://github.com/user-attachments/assets/8a6a2dfa-5d12-465e-9feb-bc4a923b35b0)
 
 Esta es la pantalla principal del juego.
+
 
 ### ⟳ Pantalla de "Intentar de Nuevo"
 
